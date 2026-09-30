@@ -8,8 +8,8 @@ long_description: |
   infrastructure intelligence. Agents can search a global data-center facility map (corroborated count pending), query
   power/grid/gas/fiber layers, score sites, and pull market/M&A context across
   92 tools. Free tier works keyless; optional X-API-Key unlocks full data
-  (claim via the claim_free_key tool or https://dchub.cloud/connect). Pro is
-  $99/mo. Source: https://github.com/azmartone67/dchub-mcp-server. Official
+  (claim via the claim_free_key tool or https://dchub.cloud/connect). Paid plans:
+  dchub.cloud/pricing. Source: https://github.com/azmartone67/dchub-mcp-server. Official
   registry name: cloud.dchub/mcp-server.
 
 maintainer:
