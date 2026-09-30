@@ -2,10 +2,10 @@ id: dchub-mcp
 name: DC Hub
 category: data-analysis
 
-description: Data-center, power-grid, fiber & site-selection intelligence — 24,500+ facilities, 92 MCP tools.
+description: Data-center, power-grid, fiber & site-selection intelligence — a global data-center facility map (corroborated count pending), 92 MCP tools.
 long_description: |
   DC Hub is a hosted Streamable HTTP MCP server for data-center and energy
-  infrastructure intelligence. Agents can search 24,500+ facilities, query
+  infrastructure intelligence. Agents can search a global data-center facility map (corroborated count pending), query
   power/grid/gas/fiber layers, score sites, and pull market/M&A context across
   92 tools. Free tier works keyless; optional X-API-Key unlocks full data
   (claim via the claim_free_key tool or https://dchub.cloud/connect). Pro is
@@ -31,7 +31,7 @@ endpoints:
 capabilities:
   - id: search.facilities
     name: Search facilities
-    description: Search 24,500+ data-center facilities by location, provider, power, and fiber
+    description: Search the global data-center facility map by location, provider, power, and fiber
   - id: site.selection
     name: Site selection and scoring
     description: Score sites on power, grid, fiber, water, risk, and workforce
